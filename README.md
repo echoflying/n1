@@ -22,10 +22,10 @@
 - 视频： https://www.bilibili.com/video/BV1rr421T7hZ/
 - 文字： https://fuliapp.top/531.html
 
-(update 20241201)
-
-
-
 ### 3. 配置openClash
 Clash版本折腾半天，最后可用的是下面这个：
-- [openClash](https://blog.fxcxy.com/2024/03/17/iStoreOS-OpenWpt%E5%AE%89%E8%A3%85%E5%8F%8A%E9%85%8D%E7%BD%AEOpenClash/#)
+- [iStoreOS/OpenWrt安装及配置OpenClash](https://blog.fxcxy.com/2024/03/17/iStoreOS-OpenWpt%E5%AE%89%E8%A3%85%E5%8F%8A%E9%85%8D%E7%BD%AEOpenClash/#)
+
+
+
+(update 20241201)
